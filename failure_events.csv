@@ -1,0 +1,29 @@
+failure_id,machine_id,failure_start,failure_detected,failure_end,failure_type,severity,root_cause
+F0004,M001,20/03/2024 18:05,20/03/2024 18:37,44:34.2,Bearing Failure,Medium,Bearing Failure
+F0003,M001,22/04/2024 16:00,22/04/2024 16:31,05:39.9,Overheating,Medium,Overheating
+F0001,M001,24/04/2024 11:50,24/04/2024 11:56,13:31.8,Sensor Malfunction,High,Sensor Malfunction
+F0002,M001,29/04/2024 08:40,29/04/2024 09:24,48:53.0,Overheating,Medium,Overheating
+F0005,M001,05/11/2024 09:55,05/11/2024 10:29,08:02.5,Mechanical Wear,Low,Mechanical Wear
+F0009,M002,06/02/2024 13:40,06/02/2024 13:52,24:41.3,Sensor Malfunction,Medium,Sensor Malfunction
+F0011,M002,14/03/2024 15:55,14/03/2024 16:09,13:30.5,Electrical Issue,Medium,Electrical Issue
+F0013,M002,19/03/2024 21:45,19/03/2024 22:24,26:36.1,Bearing Failure,High,Bearing Failure
+F0007,M002,26/04/2024 10:15,26/04/2024 10:54,54:39.2,Bearing Failure,High,Bearing Failure
+F0010,M002,17/05/2024 18:15,17/05/2024 18:30,14:57.2,Sensor Malfunction,Medium,Sensor Malfunction
+F0008,M002,05/07/2024 19:15,05/07/2024 19:30,01:01.1,Sensor Malfunction,High,Sensor Malfunction
+F0006,M002,09/10/2024 19:45,09/10/2024 19:57,51:49.4,Overheating,High,Overheating
+F0012,M002,25/10/2024 15:10,25/10/2024 15:15,24:25.0,Electrical Issue,Low,Electrical Issue
+F0018,M003,05/03/2024 23:40,06/03/2024 00:17,27:42.6,Overheating,Low,Overheating
+F0015,M003,21/03/2024 16:40,21/03/2024 16:56,11:23.0,Overheating,High,Overheating
+F0016,M003,11/04/2024 13:40,11/04/2024 13:54,32:39.9,Electrical Issue,Medium,Electrical Issue
+F0017,M003,02/05/2024 10:05,02/05/2024 10:11,04:09.6,Sensor Malfunction,High,Sensor Malfunction
+F0014,M003,08/05/2024 00:50,08/05/2024 01:03,26:52.4,Sensor Malfunction,Medium,Sensor Malfunction
+F0020,M004,02/02/2024 15:45,02/02/2024 15:58,46:17.7,Overheating,Low,Overheating
+F0024,M004,08/02/2024 11:00,08/02/2024 11:05,29:57.4,Sensor Malfunction,Low,Sensor Malfunction
+F0028,M004,21/03/2024 10:10,21/03/2024 10:35,19:54.9,Bearing Failure,Medium,Bearing Failure
+F0025,M004,01/05/2024 23:35,01/05/2024 23:48,10:38.2,Overheating,Low,Overheating
+F0023,M004,25/07/2024 11:15,25/07/2024 11:53,49:14.3,Overheating,Low,Overheating
+F0026,M004,20/08/2024 23:10,20/08/2024 23:23,03:24.4,Overheating,High,Overheating
+F0022,M004,30/08/2024 23:30,31/08/2024 00:07,46:58.7,Overheating,Medium,Overheating
+F0021,M004,20/09/2024 23:15,20/09/2024 23:29,56:54.5,Electrical Issue,High,Electrical Issue
+F0019,M004,03/10/2024 14:55,03/10/2024 15:28,24:50.9,Pressure Loss,Medium,Pressure Loss
+F0027,M004,04/10/2024 18:00,04/10/2024 18:42,05:21.3,Bearing Failure,High,Bearing Failure
